@@ -1,6 +1,6 @@
 ![mkbolg logo](./images/logo.png)
 ## MKPic
-MKPic 是一款使用Electron-Vue所写的一款运行于桌面的个人图传软件
+MKPic 是一款使用Electron-Vue所写的一款运行于桌面的个人图床软件
 > Author: ZhaoMing
 ### 下载安装运行指南
 > 提示:  安装要求宿主机上必须要安装有Node,最好是8.x以及上上.
